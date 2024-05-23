@@ -43,7 +43,7 @@ minikube service web-service
 
 3. Прочитайте файл `statistics.txt`:
    ```bash
-   cat statistics.txt
+   cat /app/statistics.txt
    ```
 
 Эти шаги позволят вам получить доступ к статистике обращений через файл `statistics.txt`.
